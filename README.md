@@ -36,7 +36,7 @@ Or this for 8Gb RAM phones
 ```
 Boot
 ```
-fastboot boot SM6350.img
+fastboot boot boot-SM6350.img
 ```
 
 # Credits
