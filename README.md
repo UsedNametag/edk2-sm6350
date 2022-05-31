@@ -34,9 +34,9 @@ Or this for 8Gb RAM phones
 ```
 ./build_8G.sh
 ```
-Flash
+Boot
 ```
-heimdall flash --BOOT boot-SM6350.img
+fastboot boot SM6350.img
 ```
 
 # Credits
